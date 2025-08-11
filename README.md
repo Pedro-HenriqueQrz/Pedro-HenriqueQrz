@@ -1,25 +1,25 @@
-# 💫 Sobre Mim
+# Olá, me chamo Pedro!
 Me chamo **Pedro Henrique Queiroz**, sou do Rio Grande do Norte e atualmente curso o **Bacharelado Interdisciplinar em Tecnologia da Informação** na **UFERSA**.  
 Formado no curso técnico de **Informática para Internet** pelo Instituto Metrópole Digital, tenho grande interesse em **desenvolvimento back-end** com **Node.js, Express, MySQL, Knex, EJS e JWT**.  
 Busco sempre criar soluções funcionais e aprender novas tecnologias.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![](https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueQrz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueQrz&show_icons=true&theme=tokyonight&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-HenriqueQrz&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueQrz&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-## 🌐 Redes Sociais
+## Redes Sociais
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrohenriqueqrz16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5584996047940)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-qrz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/pedro_henrique_qrz_)
 
 ---
 
-## 💻 Stack Tecnológica
+## Stack Tecnológica
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -35,5 +35,3 @@ Busco sempre criar soluções funcionais e aprender novas tecnologias.
 
 
 [![](https://visitcount.itsvg.in/api?id=Pedro-HenriqueQrz&icon=0&color=1)](https://visitcount.itsvg.in)
-
-💡 _"A tecnologia move o mundo, mas as pessoas dão sentido a ela."_
